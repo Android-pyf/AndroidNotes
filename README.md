@@ -628,7 +628,7 @@ Android开发核心知识点笔记-目录：
 
 ## QQ群
 
-Android开发交流QQ群：**603054416**  （备注一下GitHub，免得被认成打无良广告的）
+Android开发交流QQ群：**603054416**  （备注一下从哪看到GitHub的，免得被认成打无良广告的）
 
 快捷加群方式：[点击此处加入群聊Android开发交流群](https://jq.qq.com/?_wv=1027&k=TzdLpCl0)
 
