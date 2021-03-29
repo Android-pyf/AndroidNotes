@@ -628,12 +628,12 @@ Android开发核心知识点笔记-目录：
 
 ## QQ群
 
-Android开发交流QQ群：**603054416**  （备注一下从哪看到GitHub的，免得被认成打无良广告的）
+Android开发交流QQ群：**696224529**  （备注一下从哪看到GitHub的，免得被认成打无良广告的）
 
-快捷加群方式：[点击此处加入群聊Android开发交流群](https://jq.qq.com/?_wv=1027&k=TzdLpCl0)
+快捷加群方式：[点击此处加入群聊Android开发交流学习群](https://jq.qq.com/?_wv=1027&k=kYgJzHBJ)
 
 <div align="center">
-<img src="https://github.com/Android-pyf/AndroidNotes/blob/main/pic/Android%E6%8A%80%E6%9C%AF%E4%BA%A4%E6%B5%81%E7%BE%A4%E4%BA%8C%E7%BB%B4%E7%A0%81.png">
+<img src="https://github.com/Android-pyf/AndroidNotes/blob/main/pic/%E7%BE%A4%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg">
 </div>
 
 
