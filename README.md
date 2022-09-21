@@ -6,10 +6,14 @@
 
 Emm……辛辛苦苦种树……确定不来个Star鼓励一下？
 
+   * [腾讯Android开发笔记](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247484481&idx=1&sn=75154dc779667152003bed21529f42cf&chksm=fc48b4cccb3f3dda5aa8e8b1004d9eb80dceefec9b05c04b3fc177e671bae324da222dd6590c#rd)
+   * [2022Android十一位大厂面试真题，128道含答案](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247484655&idx=1&sn=f0ddd8654340b274007b0a34c3f785f8&chksm=fc48b462cb3f3d743c184185352bc910aacd340d9529c44574117260d2c7d911c904a19e7193#rd)
+   * [音视频真的太吃香了，60经典面试题](https://mp.weixin.qq.com/s?__biz=MzU2NDUwNTA1OA==&mid=2247484666&idx=1&sn=286dee60600d79f82a93c7461ed5cc13&chksm=fc48b477cb3f3d610780674036d2fa17b0fc1f4f8cfb9ceefd282a9856d9ee13507fd2a73776#rd)
+
 
 >部分内容收集整理于网络，在此也再次感谢所有内容产出者的贡献！
 >> [**版权声明**](#版权声明)
->>>如果觉得看起来比较麻烦，需要PDF版本，或是需要更多学习资料、面试资料，进阶、架构、音视频资料的，都可以加V：maniu0
+>>>如果觉得看起来比较麻烦，需要PDF版本，或是需要更多学习资料、面试资料，进阶、架构、音视频资料的，都可以加V：maniu0(Q:421869573)
 领取。祝愿每一位有追求的Android开发同胞都能进大厂拿高薪！
 
 
@@ -629,7 +633,7 @@ Android开发核心知识点笔记-目录：
 
 ## VX
 
-VX:maniu0  （备注一下从哪看到GitHub的，免得被认成打无良广告的）
+VX:maniu0 (Q:421869573) （备注一下从哪看到GitHub的，免得被认成打无良广告的）
 
 
 
